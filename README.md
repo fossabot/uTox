@@ -1,4 +1,5 @@
 # μTox [![Build Status](https://travis-ci.org/uTox/uTox.svg?branch=develop)](https://travis-ci.org/uTox/uTox) [![Build status](https://ci.appveyor.com/api/projects/status/bswtxxs4e93rdw2u/branch/appveyor-ci?svg=true)](https://ci.appveyor.com/project/redmanmale/utox)  [![Coverage](https://img.shields.io/badge/coverage-0.01%25-red.svg)](#) [![IRC](https://img.shields.io/badge/freenode-%23utox-brightgreen.svg)](https://webchat.freenode.net/?channels=#utox)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdenispol%2FuTox.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdenispol%2FuTox?ref=badge_shield)
 
 The lightweight [Tox](https://github.com/TokTok/toxcore) client.
 
@@ -61,3 +62,7 @@ GitLab | IRC | Email | Fingerprint
 @dkmoz | dkmoz | dkmoz@airmail.cc | `E28E 7252 B1E7 FCFE D358  CF8E 3763 B3A7 93AA FA0F`
 @redmanmale | redmanmale | redmanmale@gmail.com | `BCEE 99DC A339 ABF9 CC36  428D 61A9 B9AF D2E5 3885`
 @ | avoidr | avoidr@firemail.cc | `A251 56FC 7AFB 5C03 65A0  407E 6F5D D1C5 371D E665`
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdenispol%2FuTox.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdenispol%2FuTox?ref=badge_large)
